@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FelippeLeme
-- 👀 I’m interested in ...
+- 👀 I’m interested in everthing
 - 🌱 I’m currently learning everything about chatbots
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 FelippeLeme/FelippeLeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
