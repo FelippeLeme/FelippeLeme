@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @FelippeLeme
-- 👀 I’m interested in everthing
-- 🌱 I’m currently learning everything about chatbots
+- 👋 ### Hi, I’m @FelippeLeme
+- 👀 ### I’m interested in everthing, love to learn new things
+- 🌱 ### I’m currently learning everything about chatbots and blockchain
 
-
+<br />
+<br />
 
 <div align="center">
   <a href="https://github.com/FelippeLeme">
@@ -21,6 +22,9 @@
   <img align="center" alt="Jungle-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="Jungle-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
+  
+<br />
+<br />
   
   
   
