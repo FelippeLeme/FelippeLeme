@@ -22,9 +22,9 @@
   <img align="center" alt="Jungle-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
   
-  <div>
-   ![Snake animation](https://github.com/FelippeLeme/FelippeLeme/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
+  
+ ![Snake animation](https://github.com/FelippeLeme/FelippeLeme/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 FelippeLeme/FelippeLeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
